@@ -12,4 +12,4 @@ Run a socket.io client and point it to `8080`
 
 Socket.io client is downloadable here : https://github.com/automattic/socket.io-client
 
-Workable example there : 
+Workable example there : https://github.com/soixantecircuits/socket.io-example
